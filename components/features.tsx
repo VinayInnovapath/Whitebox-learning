@@ -6,7 +6,7 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">What is Whitebox Learning?</h2>
+            <h2 className="h2 mb-4 ">What is Whitebox Learning?</h2>
             <p className="text-xl text-gray-400">Whitebox Learning (WBL) is a classroom and online based training for developers and quality engineers. The following courses are offered currently, please click on the links below to see complete details of the course.</p>
           </div>
 
@@ -15,13 +15,13 @@ export default function Features() {
 
             {/* 1st item */}
             <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-anchor="[data-aos-id-blocks]">
-              <svg className="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+              <svg className="w-16 h-16 mb-4 " viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <rect className="fill-current text-purple-600" width="64" height="64" rx="32" />
                 <path className="stroke-current text-purple-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-center">Instructor led classroom training</h4>
+              <p className="text-lg text-gray-400 text-center">Elevate your skills with our engaging instructor-led classroom training sessions, designed to foster meaningful learning experiences.</p>
             </div>
 
             {/* 2nd item */}
@@ -31,8 +31,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-center">Online access using webinars</h4>
+              <p className="text-lg text-gray-400 text-center">Gain convenient access to valuable knowledge through interactive webinars, empowering you to learn anytime, anywhere.</p>
             </div>
 
             {/* 3rd item */}
@@ -45,8 +45,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-center">Portals for every course</h4>
+              <p className="text-lg text-gray-400 text-center">Explore dedicated portals for each course, providing seamless access to comprehensive resources and materials tailored to your learning journey.</p>
             </div>
 
             {/* 4th item */}
@@ -58,8 +58,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-center">Online Recordings</h4>
+              <p className="text-lg text-gray-400 text-center">Access our library of online recordings, ensuring you never miss a session and can review course material at your convenience.</p>
             </div>
 
             {/* 5th item */}
@@ -71,8 +71,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-center">Timed Quiz and Video Interviews</h4>
+              <p className="text-lg text-gray-400 text-center">Engage in timed quizzes and video interviews, sharpening your skills and preparing you for real-world challenges with interactive assessments.</p>
             </div>
 
             {/* 6th item */}
@@ -85,8 +85,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-center"> Practice with Group mocks</h4>
+              <p className="text-lg text-gray-400 text-center">Participate in instructor-led group mock sessions, simulating real-world scenarios to refine your skills and boost your confidence.</p>
             </div>
 
           </div>

@@ -24,13 +24,13 @@ export default function Zigzag() {
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
-                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage01} width={540} height={405} alt="Features 01" />
+              <a href="http://uiprogrammer.com/"><Image  className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage01} width={540} height={405} alt="Features 01" /></a>      
               </div>
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">"Intuitive Elegance, User Empowerment."</div>
-                  <h3 className="h3 mb-3">FullStack Developer</h3>
+                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">"Intuitive Elegance, User Empowerment."</div>                 
+                  <h3 className="h3 mb-3"> <a href="http://uiprogrammer.com/">FullStack Developer</a></h3>
                   <p className="text-xl text-gray-400 mb-4">A Full Stack Developer handles both the visible and behind-the-scenes parts of building websites – making things work and look great.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -60,13 +60,13 @@ export default function Zigzag() {
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl" data-aos="fade-up">
-                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage02} width={540} height={405} alt="Features 02" />
+              <a href="http://uiprogrammer.com/"><Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage02} width={540} height={405} alt="Features 02" /> </a>  
               </div>
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">"Unleashing Intelligence, Transforming Tomorrow"</div>
-                  <h3 className="h3 mb-3">Data Science and Machine Learning</h3>
+                  <h3 className="h3 mb-3"> <a href="http://uiprogrammer.com/">Data Science and Machine Learning</a> </h3>
                   <p className="text-xl text-gray-400 mb-4">Empowering computers to learn from data, fueling innovation and automation across industries.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -102,13 +102,13 @@ export default function Zigzag() {
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
-                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage03} width={540} height={405} alt="Features 03" />
+             <a href="http://uiprogrammer.com/">  <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage03} width={540} height={405} alt="Features 03" /> </a> 
               </div>
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">Data Engineering: Building Tomorrow's Foundations.</div>
-                  <h3 className="h3 mb-3">Data Engineering</h3>
+                  <h3 className="h3 mb-3">  <a href="http://uiprogrammer.com/">Data Engineering</a> </h3>
                   <p className="text-xl text-gray-400 mb-4">Crafting data-driven solutions for tomorrow's challenges</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
